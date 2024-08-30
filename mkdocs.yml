@@ -192,7 +192,7 @@ markdown_extensions:
 
 # 自定义 css 扩展
 extra_css:
-  - 'assets/css/custom.css'  # 外观设置
+  - 'assets/custom.css'  # 外观设置
 
 
 nav:
