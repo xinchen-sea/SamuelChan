@@ -3,8 +3,126 @@
 
 我会从以下几方面简要讲讲怎么“活在浙大”，简单来讲分成“衣食住行玩”
 
-### 抹平信息差
-在此之前，我还是抹平一下信息差，来你浙应该有的公众号：
+## 抹平信息差
+在此之前，我还是抹平一下信息差
+### 各大网站大全
+这一小节内容由zph整理，你可以选择点击标题跳转，也可以选择复制链接至浏览器打开，部分链接需要校园网或者rvpn/webvpn才能打开
+
+1. [浙江大学官网](https://www.zju.edu.cn/)
+```md
+https://www.zju.edu.cn/
+```
+
+2. [党委学生工作部网站](http://www.xgb.zju.edu.cn/)
+```md
+http://www.xgb.zju.edu.cn/
+```
+
+
+3. [[本科教务网](http://zdbk.zju.edu.cn/)]
+```md
+http://zdbk.zju.edu.cn/
+```
+
+4. [旧版素拓网](http://www.youth.zju.edu.cn/sztz/)
+```md
+http://www.youth.zju.edu.cn/sztz/ 
+```
+
+5. [新版素拓网](http://sztz.zju.edu.cn/)
+```md 
+http://sztz.zju.edu.cn/
+```
+
+6. [启真在线](https://qzonline.zju.edu.cn/)
+```md
+https://qzonline.zju.edu.cn/
+```
+
+7. [求是学院官网](http://qsxy.zju.edu.cn/)
+```md
+http://qsxy.zju.edu.cn/
+```
+
+8. [浙江大学团委](https://zjutw.zju.edu.cn/)
+```md
+https://zjutw.zju.edu.cn/
+```
+
+9. [浙大本科生院门户网](https://ugrs.zju.edu.cn/)
+```md
+https://ugrs.zju.edu.cn/
+```
+
+10. [本科生院办公网](https://bksy.zju.edu.cn/main.htm)
+```md
+https://bksy.zju.edu.cn/main.htm
+```
+
+11. 三大学园官网
+    1. [丹青学园](https://dqxy.zju.edu.cn/main.psp)
+    ```
+    https://dqxy.zju.edu.cn/main.psp
+    ```
+    
+    2. [云峰学园](https://yunfeng.zju.edu.cn/on/)
+	```md
+    https://yunfeng.zju.edu.cn/on/
+	```
+    
+    3. [蓝田学园](http://lantian.zju.edu.cn/ltoffice/)
+    ```md
+	http://lantian.zju.edu.cn/ltoffice/
+	```
+    
+12. [浙江大学就业服务平台](https://www.career.zju.edu.cn/)
+```html
+https://www.career.zju.edu.cn/
+```
+
+13. [浙江大学综合服务网](http://zhfw.zju.edu.cn/)
+```html
+http://zhfw.zju.edu.cn/
+```
+
+14. [浙江大学现代教育管理系统]( http://jwbinfosys.zju.edu.cn/)(考试查询、成绩查询等)
+```html
+ http://jwbinfosys.zju.edu.cn/
+```
+
+15. [学在浙大](http://course.zju.edu.cn/)(线上课程、提交作业、测试等)
+```html
+http://course.zju.edu.cn/
+```
+
+16. [浙江大学校务服务网](http://xwfw.zju.edu.cn/ggcg)(场馆申请等)
+```html
+http://xwfw.zju.edu.cn/ggcg
+```
+
+17. [浙大校园正版化软件](http://ms.zju.edu.cn/)(下载各类软件)
+```html
+http://ms.zju.edu.cn/
+```
+
+18. [浙江大学后勤集团综合服务网](http://zulg.zju.edu.cn/)
+```html
+http://zulg.zju.edu.cn/
+```
+
+19. [智慧团建](https://zhtj.youth.cn/zhtj/)
+```html
+https://zhtj.youth.cn/zhtj/
+```
+
+20. [浙江大学教学资源管理系统（借教室等）](http://jxzygl.zju.edu.cn/default.html)
+```html
+http://jxzygl.zju.edu.cn/default.html
+```
+
+
+
+### 来你浙应该有的公众号：
 <div class="text-container">
   <ul>
 	<li>浙大官微</li>
