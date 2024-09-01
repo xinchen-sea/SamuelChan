@@ -19,7 +19,7 @@ http://www.xgb.zju.edu.cn/
 ```
 
 
-3. [[本科教务网](http://zdbk.zju.edu.cn/)]
+3. [本科教务网](http://zdbk.zju.edu.cn/)
 ```md
 http://zdbk.zju.edu.cn/
 ```
@@ -115,7 +115,7 @@ http://zulg.zju.edu.cn/
 https://zhtj.youth.cn/zhtj/
 ```
 
-20. [浙江大学教学资源管理系统（借教室等）](http://jxzygl.zju.edu.cn/default.html)
+20. [浙江大学教学资源管理系统](http://jxzygl.zju.edu.cn/default.html)（借教室等）
 ```html
 http://jxzygl.zju.edu.cn/default.html
 ```
