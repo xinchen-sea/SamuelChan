@@ -140,7 +140,7 @@ http://jxzygl.zju.edu.cn/default.html
   </ul></div>
   <div class="text-container">
   <ul>
-  <li>ZJUCS 潮汕同乡会</li>
+  <li>星辰耀志</li>
   <li>CC 98</li>
   <li>浙大青志</li>
   <li>浙大校友总会</li>
@@ -151,9 +151,9 @@ http://jxzygl.zju.edu.cn/default.html
   <li>大声喧哗指南</li>
   <li>全员光滑</li>
   <li>二月十三</li>
-  <li>……更多的自己探索吧</li>
+  <li>MatchUs ZJU</li>
   </ul></div>
-
+<center>……更多的自己探索</center>
 
 ## 华冠丽服：
 人是衣裳马是鞍，这里我就随便唠两句
